@@ -4865,3 +4865,4 @@ static HAL_StatusTypeDef I2C_Disable_IRQ(I2C_HandleTypeDef *hi2c, uint16_t Inter
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

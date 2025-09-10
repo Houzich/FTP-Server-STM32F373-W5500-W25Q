@@ -178,3 +178,4 @@ typedef enum
 #endif /* ___STM32F3xx_HAL_DEF */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
