@@ -1538,3 +1538,4 @@
 #endif /* __STM32F3xx_HAL_GPIO_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

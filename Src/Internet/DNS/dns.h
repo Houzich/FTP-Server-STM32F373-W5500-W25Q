@@ -99,3 +99,4 @@ int8_t DNS_run(uint8_t * dns_ip, uint8_t * name, uint8_t * ip_from_dns);
 void DNS_time_handler(void);
 
 #endif	/* _DNS_H_ */
+

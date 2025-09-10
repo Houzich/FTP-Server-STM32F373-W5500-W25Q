@@ -1607,3 +1607,4 @@ void TIM_CCxChannelCmd(TIM_TypeDef* TIMx, uint32_t Channel, uint32_t ChannelStat
 #endif /* __STM32F3xx_HAL_TIM_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

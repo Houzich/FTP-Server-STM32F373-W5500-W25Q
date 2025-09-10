@@ -498,3 +498,4 @@ uint32_t           HAL_FLASHEx_OBGetUserData(uint32_t DATAAdress);
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+

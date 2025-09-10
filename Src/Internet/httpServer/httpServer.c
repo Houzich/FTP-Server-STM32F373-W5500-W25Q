@@ -763,3 +763,4 @@ uint16_t read_userReg_webContent(uint16_t content_num, uint8_t * buf, uint32_t o
 	ret = strlen((void *)buf);
 	return ret;
 }
+
