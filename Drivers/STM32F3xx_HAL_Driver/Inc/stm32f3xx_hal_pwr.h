@@ -235,3 +235,4 @@ void HAL_PWR_DisableSEVOnPend(void);
 #endif /* __STM32F3xx_HAL_PWR_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

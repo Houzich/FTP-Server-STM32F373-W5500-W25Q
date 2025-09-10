@@ -80,3 +80,4 @@ uint32_t Write_Net_W25Q(uint8_t *data, uint32_t size_cmd);
 uint32_t W25Q_WriteBytes_Wait_Busy(uint32_t addr_start,uint8_t *buf,uint32_t size);
 uint32_t W25Q_EraseChip_Wait_Busy(void);
 #endif /* W25Q_H_ */
+

@@ -1714,3 +1714,4 @@ static uint32_t RCC_GetPLLCLKFreq(void)
   */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

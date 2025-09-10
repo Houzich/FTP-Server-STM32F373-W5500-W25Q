@@ -917,3 +917,4 @@ int8_t  getsockopt(uint8_t sn, sockopt_type sotype, void* arg)
    }
    return SOCK_OK;
 }
+

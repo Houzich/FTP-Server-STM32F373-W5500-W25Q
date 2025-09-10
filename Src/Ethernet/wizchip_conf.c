@@ -787,3 +787,4 @@ void wizchip_gettimeout(wiz_NetTimeout* nettime)
    nettime->retry_cnt = getRCR();
    nettime->time_100us = getRTR();
 }
+

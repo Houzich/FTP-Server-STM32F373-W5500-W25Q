@@ -2175,3 +2175,4 @@ uint8_t W5500_Read_SPI(void);
 /// @endcond
 
 #endif   // _W5500_H_
+

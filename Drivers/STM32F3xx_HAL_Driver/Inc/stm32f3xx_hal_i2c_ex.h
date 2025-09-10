@@ -179,3 +179,4 @@ void HAL_I2CEx_DisableFastModePlus(uint32_t ConfigFastModePlus);
 #endif /* __STM32F3xx_HAL_I2C_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
