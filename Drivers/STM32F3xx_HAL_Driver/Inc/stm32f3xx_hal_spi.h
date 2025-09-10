@@ -702,3 +702,4 @@ uint32_t             HAL_SPI_GetError(SPI_HandleTypeDef *hspi);
 #endif /* __STM32F3xx_HAL_SPI_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

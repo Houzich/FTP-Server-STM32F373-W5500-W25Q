@@ -1242,3 +1242,4 @@ void TIMEx_DMACommutationCplt(DMA_HandleTypeDef *hdma);
 #endif /* __STM32F3xx_HAL_TIM_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+

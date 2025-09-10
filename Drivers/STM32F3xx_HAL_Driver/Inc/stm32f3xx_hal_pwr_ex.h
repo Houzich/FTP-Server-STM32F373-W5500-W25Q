@@ -338,3 +338,4 @@ void HAL_PWREx_DisableSDADC(uint32_t Analogx);
 #endif /* __STM32F3xx_HAL_PWR_EX_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
