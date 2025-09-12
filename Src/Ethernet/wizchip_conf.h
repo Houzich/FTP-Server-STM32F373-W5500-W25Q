@@ -623,3 +623,4 @@ void wizchip_gettimeout(wiz_NetTimeout* nettime);
 
 #endif   // _WIZCHIP_CONF_H_
 
+

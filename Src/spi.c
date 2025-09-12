@@ -222,3 +222,4 @@ void HAL_SPI_MspDeInit(SPI_HandleTypeDef* spiHandle)
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
 
+
